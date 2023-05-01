@@ -1,1 +1,1 @@
-# vercel-redirect7
+Upload this to vercel using Git for setup !
